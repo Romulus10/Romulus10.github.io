@@ -13,3 +13,8 @@ body {
     color: white;
     background-color: black;
 }
+
+aside {
+	position: absolute;
+	right: 0px;
+}
