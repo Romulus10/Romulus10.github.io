@@ -23,5 +23,5 @@ aside {
 main {
     box-shadow: 10px 10px 5px #888888;
     border-width: 5px;
-    border-style: ridged;
+    border-style: ridge;
 }
