@@ -21,7 +21,7 @@ aside {
 }
 
 main {
-    box-shadow: 10px 10px 5px #888888;
-    border-width: 5px;
+    box-shadow: 5px 5px 5px #999999;
+    border-width: 1px;
     border-style: ridge;
 }
