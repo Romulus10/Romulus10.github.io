@@ -21,6 +21,7 @@ aside {
 }
 
 main {
+    width: 90%;
     box-shadow: 5px 5px 5px #999999;
     border-width: 1px;
     border-style: ridge;
