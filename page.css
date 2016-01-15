@@ -18,10 +18,11 @@ body {
 aside {
 	position: absolute;
 	right: 0px;
+	width: 30%;
 }
 
 main {
-    width: 90%;
+    width: 70%;
     box-shadow: 5px 5px 5px #999999;
     border-width: 1px;
     border-style: ridge;
