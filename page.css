@@ -6,31 +6,26 @@ nav {
     font-size: 20pt;
     color: green;
 }
-
 h1,h2,h3,h4,h5,h6 {
     font-family: "Lucida Console", Monaco, monospace;
     color: darkgreen;
 }
-
 body {
     color: white;
     background-color: black;
     font-family: "Palatino Linotype", Palatino, serif;
 }
-
 aside {
 	position: absolute;
 	right: 0px;
 	width: 30%;
 }
-
 main {
     width: 65%;
     box-shadow: 5px 5px 5px #999999;
     border-width: 1px;
     border-style: ridge;
 }
-
 .container { position:relative; padding:0 0 0 55px; }
 #sidebar {
     position:absolute;
